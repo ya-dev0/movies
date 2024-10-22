@@ -1,1 +1,1 @@
-https://movies-j8k7zbjwh-ya-devs-projects.vercel.app
+https://movies-r6wuzgetz-ya-devs-projects.vercel.app
